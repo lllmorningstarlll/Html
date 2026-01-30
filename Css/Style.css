@@ -4,6 +4,9 @@
   font-family: "euphoria script", cursive;
 
 }
+.Subtitulos:hover {
+  color: salmon;
+}
 
 #contenedor {
   float: left;
