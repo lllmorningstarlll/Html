@@ -16,9 +16,13 @@
   display: block;
   margin: 0 auto;
 }
-.color-linea {
-  border-color: #2b6cb0;
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #888, transparent);
 }
+
+
 .Border {
   width: 200px;
   height: 200px;
@@ -32,3 +36,7 @@
   text-align: center;
   color: #2b6cb0;
 }
+.sangria {
+  text-indent: 2em;
+}
+
